@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 13,
+    "description": "Fodificium: Sermo Latinus Emendatus Minecrafti"
+  },
+  "language": {
+    "la_sl": {
+      "name": "Sermo Latinus",
+      "region": "Roma",
+      "bidirectional": false
+    }
+  }
+}
