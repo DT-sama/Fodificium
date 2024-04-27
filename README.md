@@ -6,4 +6,4 @@
 
 ## Installation
 
-To install, click “Code” then “Download ZIP”; extract the zip file, and copy the folder called `Fodificium` (**not** `Fodificium-main`) into your resource pack folder (on Windows, `%appdata%/.minecraft/resourcepacks` – or go to Options > Resource Packs > Open Pack Folder within Minecraft). Then activate the pack from the Options > Resource Packs menu, and change the language to “Sermo Latinus (Roma)” (it should be right below “Latina (Latium)”).
+To install, download the `Fodificium.zip` file from the [latest release](https://github.com/DT-sama/Fodificium/releases), and extract it into your resource pack folder (on Windows, `%appdata%/.minecraft/resourcepacks` – or go to Options > Resource Packs > Open Pack Folder within Minecraft). Then activate the pack from the Options > Resource Packs menu, and change the language to “Sermo Latinus (Roma)” (it should be right below “Latina (Latium)”).
