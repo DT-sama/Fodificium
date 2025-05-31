@@ -3038,143 +3038,143 @@
     "datapackFailure.title": "Mundum expromi non potuit propter errores in data packs selectis.\nConare potes mundum promere per data pack solitum (i.e. \"modum certum\") aut ad titulum redire dum errores ipse corrigas.",
 
 
-    "death.attack.anvil": "%1$s compressus/ast incude cadente",
-    "death.attack.anvil.player": "%1$s compressust/ast incude cadente dum pugnabat cum %2$s",
+    "death.attack.anvil": "%1$s incúde cadente compressus est",
+    "death.attack.anvil.player": "%1$s incúde cadente compressus est, dum %2$s cum eó pugnábat",
  
-    "death.attack.arrow": "%1$s occisust/ast eminus ab %2$s",
-    "death.attack.arrow.item": "%1$s occisust/ast eminus ab %2$s per %3$s",
+    "death.attack.arrow": "%1$s in pugná occísus est, cum %2$s eum éminus interfécit",
+    "death.attack.arrow.item": "%1$s in pugná occísus est, cum %2$s eum éminus interfécit, hóc úsus: %3$s",
  
-    "death.attack.badRespawnPoint.link": "Factum pro Consulto",
-    "death.attack.badRespawnPoint.message": "%1$s interfectus/ast ab %2$s",
+    "death.attack.badRespawnPoint.link": "Factum Cónsultó",
+    "death.attack.badRespawnPoint.message": "%1$s occísus est, cum %2$s eum interfécit",
   
-    "death.attack.cactus": "%1$s acu punctust/ast usque ad mortem",
-    "death.attack.cactus.player": "%1$s in cactum occidit dum effugeret %2$s",
+    "death.attack.cactus": "%1$s acú púnctus est úsque ad mortem",
+    "death.attack.cactus.player": "%1$s in fugá in cactum cecidit, dum %2$s eum sequébátur",
   
-    "death.attack.cramming": "%1$s contritust/ast",
-    "death.attack.cramming.player": "%1$s contritust/ast ab %2$s",
+    "death.attack.cramming": "%1$s contrítus est",
+    "death.attack.cramming.player": "%1$s contrítus est, postquam %2$s eum conclúsit",
     
-    "death.attack.dragonBreath": "%1$s assust/ast halitu draconis",
-    "death.attack.dragonBreath.player": "%1$s assust/ast halitu draconis ab %2$s",
+    "death.attack.dragonBreath": "%1$s hálitú dracónis défríxus est",
+    "death.attack.dragonBreath.player": "%1$s hálitú dracónis défríxus est, quem %2$s in eum spírávit",
   
-    "death.attack.drown": "%1$s demersust/ast",
-    "death.attack.drown.player": "%1$s demersust/ast dum effugeret %2$s",
+    "death.attack.drown": "%1$s démersus est",
+    "death.attack.drown.player": "%1$s in fugá démersus est, dum %2$s eum sequébátur",
   
-    "death.attack.dryout": "%1$s mortuust/ast siti",
-    "death.attack.dryout.player": "%1$s mortuust/ast siti dum effugeret %2$s",
+    "death.attack.dryout": "%1$s sití mortuus est",
+    "death.attack.dryout.player": "%1$s in fugá sití mortuus est, dum %2$s eum sequébátur",
 
-    "death.attack.even_more_magic": "%1$s mortuust/ast etiam maiorem per magiam",
+    "death.attack.even_more_magic": "%1$s etiam maiórem per magíam mortuus est",
 
-    "death.attack.explosion": "%1$s explosust/ast",
-    "death.attack.explosion.player": "%1$s explosust/ast ab %2$s",
-    "death.attack.explosion.player.item": "%1$s explosust/ast ab %2$s per %3$s",
+    "death.attack.explosion": "%1$s explósus est",
+    "death.attack.explosion.player": "%1$s explósus est, cum %2$s id fécit",
+    "death.attack.explosion.player.item": "%1$s explósus est, cum %2$s id fécit, hóc úsus: %3$s",
 
-    "death.attack.fall": "%1$s se in terram coniecit",
-    "death.attack.fall.player": "%1$s se in terram coniecit dum effugeret %2$s",
+    "death.attack.fall": "%1$s sé in terram coniécit",
+    "death.attack.fall.player": "%1$s in fugá se in terram coniécit, dum %2$s eum sequébátur",
 
-    "death.attack.fallingBlock": "%1$s compressus/ast cubo cadente",
-    "death.attack.fallingBlock.player": "%1$s compressus/ast cubo cadente dum pugnabat cum %2$s",
+    "death.attack.fallingBlock": "%1$s cubó cadente compressus est",
+    "death.attack.fallingBlock.player": "%1$s cubó cadente compressus est, dum %2$s cum eó pugnábat",
  
-    "death.attack.fallingStalactite": "%1$s lapide cadente transfossust/ast",
-    "death.attack.fallingStalactite.player": "%1$s lapide cadente transfossust/ast dum pugnabat cum %2$s",
+    "death.attack.fallingStalactite": "%1$s lapide cadente tránsfossus est",
+    "death.attack.fallingStalactite.player": "%1$s lapide cadente tránsfossus est/ast, dum %2$s cum eó pugnábat",
     
-    "death.attack.fireball": "%1$s globo ignis combustust/ast ab %2$s",
-    "death.attack.fireball.item": "%1$s globo ignis combustust/ast ab %2$s per %3$s",
+    "death.attack.fireball": "%1$s globó ignis combustus est, quem %2$s iécerat",
+    "death.attack.fireball.item": "%1$s globó ignis combustus est, quem %2$s iécerat, hóc úsus: %3$s",
  
-    "death.attack.fireworks": "%1$s est pyrobolatust/ast",
-    "death.attack.fireworks.item": "%1$s est pyrobolatust/ast missili pyrotechnico ab %2$s ex %3$s iacto",
-    "death.attack.fireworks.player": "%1$s est pyrobolatust/ast dum pugnabat cum %2$s",
+    "death.attack.fireworks": "%1$s pyroboló frúctus est",
+    "death.attack.fireworks.item": "%1$s pyroboló frúctus est, quem %2$s mísit, hóc úsus: %3$s",
+    "death.attack.fireworks.player": "%1$s pyroboló frúctus est, dum %2$s cum eó pugnábat",
     
-    "death.attack.flyIntoWall": "%1$s energiam cineticam plane percepit",
-    "death.attack.flyIntoWall.player": "%1$s energiam cineticam plane percepit dum effugeret %2$s",
+    "death.attack.flyIntoWall": "%1$s sé parietí dedit",
+    "death.attack.flyIntoWall.player": "%1$s in fugá sé parietí dedit, dum %2$s eum sequébátur",
     
-    "death.attack.freeze": "%1$s congelavit ad mortem",
-    "death.attack.freeze.player": "%1$s ad mortem congelatust/ast a %2$s",
+    "death.attack.freeze": "%1$s gelú mortuus est",
+    "death.attack.freeze.player": "%1$s gelú mortuus est, cum %2$s eum congelávit",
  
-    "death.attack.generic": "%1$s mortuust/ast",
-    "death.attack.generic.player": "%1$s mortuust/ast propter %2$s",
+    "death.attack.generic": "%1$s mortuus est",
+    "death.attack.generic.player": "%1$s mortuus est, et %2$s causa fuit",
     
-    "death.attack.hotFloor": "%1$s comperit solum esse lavam",
-    "death.attack.hotFloor.player": "%1$s in periculum incidit propter %2$s",
+    "death.attack.hotFloor": "%1$s super igne ambuláre cónátus est",
+    "death.attack.hotFloor.player": "%1$s in maximum perículum incidit, et %2$s causa fuit",
   
-    "death.attack.inFire": "%1$s crematust/ast igni",
-    "death.attack.inFire.player": "%1$s in flammas occidit dum pugnabat cum %2$s",
+    "death.attack.inFire": "%1$s igne cremátus est",
+    "death.attack.inFire.player": "%1$s in ignem cecidit, dum %2$s cum eó pugnábat",
   
-    "death.attack.inWall": "%1$s suffocatust/ast intra murum",
-    "death.attack.inWall.player": "%1$s  suffocatus/ast intra murum dum pugnabat cum %2$s",
+    "death.attack.inWall": "%1$s intrá parietem exstínctus est",
+    "death.attack.inWall.player": "%1$s intrá parietem exstínctus est, dum %2$s cum eó pugnábat",
   
-    "death.attack.indirectMagic": "%1$s magia occisust/ast ab %2$s",
-    "death.attack.indirectMagic.item": "%1$s magia occisust/ast ab %2$s per %3$s",
+    "death.attack.indirectMagic": "%1$s per magíam occísus est, quam %2$s coniécerat",
+    "death.attack.indirectMagic.item": "%1$s per magíam occísus est, quam %2$s coniécerat, hóc úsus: %3$s",
 
-    "death.attack.lava": "%1$s in lava nare conatust/ast",
-    "death.attack.lava.player": "%1$s in lava nare conatust/ast dum effugeret %2$s",
+    "death.attack.lava": "%1$s in ignibus náre cónátus est",
+    "death.attack.lava.player": "%1$s in ignibus náre cónátus est, dum %2$s eum sequébátur",
 
-    "death.attack.lightningBolt": "%1$s fulmine ictust/ast",
-    "death.attack.lightningBolt.player": "%1$s fulmine ictust/ast dum pugnabat cum %2$s",
+    "death.attack.lightningBolt": "%1$s fulmine ictus est",
+    "death.attack.lightningBolt.player": "%1$s in pugná fulmine ictus est, dum %2$s cum eó pugnábat",
 
-    "death.attack.magic": "%1$s occisust/ast per magiam",
-    "death.attack.magic.player": "%1$s occisust/ast per magiam dum effugeret %2$s",
+    "death.attack.magic": "%1$s per magíam occísus est",
+    "death.attack.magic.player": "%1$s in fugá per magíam occísus est, dum %2$s eum sequébátur",
     
-    "death.attack.message_too_long": "Nuntium enimverum erat longius quam ut plene ostenderetur. Perdolet hoc! Tene vero nuntium breviatum: %s",
+    "death.attack.message_too_long": "Nuntium longius fuit quam ut plene mitteretur. Paenitet hoc! Ecce vero nuntium breviatum: %s",
     
-    "death.attack.mob": "%1$s occisust/ast ab %2$s",
-    "death.attack.mob.item": "%1$s occisust/ast ab %2$s per %3$s",
+    "death.attack.mob": "%1$s occísus est, cum %2$s eum interfécit",
+    "death.attack.mob.item": "%1$s occísus est, cum %2$s eum interfécit, hóc úsus: %3$s",
 
-    "death.attack.onFire": "%1$s ad mortem exustust/ast",
-    "death.attack.onFire.item": "%1$s exustust/ast ad mortem dum pugnabat cum %2$s %3$s ferente",
-    "death.attack.onFire.player": "%1$s tote conflagravit dum pugnabat cum %2$s",
+    "death.attack.onFire": "%1$s ad mortem conflágrávit",
+    "death.attack.onFire.item": "%1$s in pugná conflágrávit, dum %2$s cum eó pugnábat, hoc tenens: %3$s",
+    "death.attack.onFire.player": "%1$s in pugná conflágrávit, dum %2$s cum eó pugnábat",
     
-    "death.attack.outOfWorld": "%1$s de mundo cecidit",
-    "death.attack.outOfWorld.player": "%1$s noluit in eodem mundo vivere ac %2$s",
+    "death.attack.outOfWorld": "%1$s dé mundó cecidit",
+    "death.attack.outOfWorld.player": "%1$s nóluit in eódem mundó vívere ac %2$s",
 
-    "death.attack.player": "%1$s occisust/ast ab %2$s",
-    "death.attack.player.item": "%1$s occisust/ast ab %2$s per %3$s",
+    "death.attack.player": "%1$s occísus est, cum %2$s eum interfécit",
+    "death.attack.player.item": "%1$s occísus est, cum %2$s eum interfécit, hóc úsus: %3$s",
     
-    "death.attack.sonic_boom": "%1$s vi sonora oppressust/ast",
-    "death.attack.sonic_boom.item": "%1$s vi sonora oppressust/ast dum effugeret %2$s cum %3$s",
-    "death.attack.sonic_boom.player": "%1$s vi sonora oppressust/ast dum effugeret %2$s",
+    "death.attack.sonic_boom": "%1$s ví sonórá élísus est",
+    "death.attack.sonic_boom.item": "%1$s ví sonórá élísus est, dum %2$s eum sequébátur, hoc tenens: %3$s",
+    "death.attack.sonic_boom.player": "%1$s ví sonórá élísus est, dum %2$s eum sequébátur",
     
-    "death.attack.stalagmite": "%1$s ad mortem punctust/ast acuto lapide",
-    "death.attack.stalagmite.player": "%1$s ad mortem punctust/ast acuto lapide dum pugnabat cum %2$s",
+    "death.attack.stalagmite": "%1$s lapide acútó ad mortem púnctus est",
+    "death.attack.stalagmite.player": "%1$s lapide acútó ad mortem púnctus est, dum %2$s cum eó pugnábat",
     
-    "death.attack.starve": "%1$s mortuust/ast fame",
-    "death.attack.starve.player": "%1$s mortuust/ast fame dum pugnabat cum %2$s",
+    "death.attack.starve": "%1$s famé mortuus est",
+    "death.attack.starve.player": "%1$s famé mortuus est, dum %2$s cum eó pugnábat",
     
-    "death.attack.sting": "%1$s punctust/ast ad mortem",
-    "death.attack.sting.item": "%1$s punctust/ast ad mortem ab %2$s per %3$s",
-    "death.attack.sting.player": "%1$s punctust/ast ad mortem ab %2$s",
+    "death.attack.sting": "%1$s púnctus est ad mortem",
+    "death.attack.sting.item": "%1$s púnctus est ad mortem, cum %2$s id fécit, hóc úsus: %3$s",
+    "death.attack.sting.player": "%1$s púnctus est ad mortem, cum %2$s id fécit",
     
-    "death.attack.sweetBerryBush": "%1$s ad mortem punctust/ast a frutice",
-    "death.attack.sweetBerryBush.player": "%1$s ad mortem punctust/ast a frutice dum effugeret %2$s",
+    "death.attack.sweetBerryBush": "%1$s frutice púnctus ad mortem est",
+    "death.attack.sweetBerryBush.player": "%1$s in fugá frutice púnctus est ad mortem, dum %2$s eum sequébátur",
     
     "death.attack.thorns": "%1$s mortuust/ast dum noceret %2$s",
     "death.attack.thorns.item": "%1$s interfectust/ast ab %3$s dum noceret %2$s",
     
-    "death.attack.thrown": "%1$s perculsust/ast ad mortem ab %2$s",
-    "death.attack.thrown.item": "%1$s perculsust/ast ad mortem ab %2$s per %3$s",
+    "death.attack.thrown": "%1$s occísus est, cum %2$s eum perculit",
+    "death.attack.thrown.item": "%1$s occísus est, cum %2$s eum perculit, hóc úsus: %3$s",
 
-    "death.attack.trident": "%1$s transfixust/ast ab %2$s",
-    "death.attack.trident.item": "%1$s transfixust/ast ab %2$s per %3$s",
+    "death.attack.trident": "%1$s occísus est, cum %2$s tridente tránsfódit",
+    "death.attack.trident.item": "%1$s occísus est, cum %2$s tridente tránsfódit, hóc úsus: %3$s",
     
-    "death.attack.wither": "%1$s extabuit",
-    "death.attack.wither.player": "%1$s extabuit dum pugnabat cum %2$s",
-    "death.attack.witherSkull": "%1$s ictust/ast calvaria ab %2$s",
-    "death.attack.witherSkull.item": "%1$s ictust/ast calvaria ab %2$s per %3$s",
+    "death.attack.wither": "%1$s extábuit",
+    "death.attack.wither.player": "%1$s extábuit, dum %2$s cum eó pugnábat",
+    "death.attack.witherSkull": "%1$s calváriá ictus est, quam %2$s iécit",
+    "death.attack.witherSkull.item": "%1$s calváriá ictus est, quam %2$s iécit, hóc úsus: %3$s",
 
-    "death.fell.accident.generic": "%1$s de alto loco cecidit",
-    "death.fell.accident.ladder": "%1$s cecidit de scalis",
-    "death.fell.accident.other_climbable": "%1$s dum ascendebat cecidit",
-    "death.fell.accident.scaffolding": "%1$s de suggesto cecidit",
-    "death.fell.accident.twisting_vines": "%1$s de vineis cecidit intortis",
-    "death.fell.accident.vines": "%1$s de vineis cecidit",
-    "death.fell.accident.weeping_vines": "%1$s de vineis cecidit lacrimosis",
+    "death.fell.accident.generic": "%1$s dé altó locó cecidit",
+    "death.fell.accident.ladder": "%1$s dé scálís cecidit",
+    "death.fell.accident.other_climbable": "%1$s ascendendó cecidit",
+    "death.fell.accident.scaffolding": "%1$s dé suggestó cecidit",
+    "death.fell.accident.twisting_vines": "%1$s dé víneís cecidit intortís",
+    "death.fell.accident.vines": "%1$s dé víneís cecidit",
+    "death.fell.accident.weeping_vines": "%1$s dé víneís cecidit lacrimósís",
   
-    "death.fell.assist": "%1$s ad mortem iactust/ast ab %2$s",
-    "death.fell.assist.item": "%1$s ad mortem iactust/ast ab %2$s per %3$s",
+    "death.fell.assist": "%1$s occísus est, cum %2$s eum ad mortem déiécit",
+    "death.fell.assist.item": "%1$s occísus est, cum %2$s eum ad mortem déiécit, hóc úsus: %3$s",
 
-    "death.fell.finish": "%1$s altius cecidit et ab %2$s interfectust/ast",
-    "death.fell.finish.item": "%1$s altius cecidit et a %2$s per %3$s interfectust/ast",
+    "death.fell.finish": "%1$s altius cecidit, et %2$s eum interfécit",
+    "death.fell.finish.item": "%1$s altius cecidit, et %2$s eum interfécit, hóc úsus: %3$s",
 
-    "death.fell.killer": "%1$s deiectust/ast de supero",
+    "death.fell.killer": "%1$s dé altó locó déiectus est",
 
 
     "deathScreen.quit.confirm": "Certumne est exire e ludo?",
